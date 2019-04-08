@@ -1,0 +1,6 @@
+framework module Pods_RoystagramTests {
+  umbrella header "Pods-RoystagramTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
