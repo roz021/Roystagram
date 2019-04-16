@@ -8,6 +8,8 @@ target 'Roystagram' do
   # Pods for Roystagram
   pod "Parse"
   pod "AlamofireImage"
+  pod "MessageInputBar"
+
   target 'RoystagramTests' do
     inherit! :search_paths
     # Pods for testing
